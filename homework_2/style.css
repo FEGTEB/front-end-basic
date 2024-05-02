@@ -1,0 +1,57 @@
+body{
+	color: #3e3e3e;
+	width: 900px;
+	border: 1px dashed #7fa446;
+}
+
+h1{
+	color: #7fa446;
+	text-align: center;
+}
+
+hr{
+	border: none;
+	background: #7fa446;
+	width: 800px;
+	height: 1px;
+}
+
+.menu_section{
+	border-bottom: 1px dashed #7fa446;
+}
+
+.article_title{
+	font-weight: 900;
+}
+
+.section_title{
+	color: #46a471;   
+}
+
+.price{
+	color: #a02136;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.description{
+	color: #9E9E9E;
+}
+
+.product_img{
+	width: 60px;
+}
+
+.schedule{
+	font-size: 14px;
+}
+
+.title{
+	font-weight: bold;
+}
+
+footer a{
+	color: #7fa446;
+}
+
+
